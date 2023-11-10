@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <!-- 下载地址为您提供的局域网地址和文件名 -->
+                    <string>http://192.168.1.126:8082/__UNI__2000780_1110113752.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <!-- Bundle ID -->
+                <string>io.csenergy</string>
+                <key>bundle-version</key>
+                <!-- 版本号 -->
+                <string>1.0.7</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <!-- 这里您可以填写应用程序的名称，用户在安装时会看到这个标题 -->
+                <string>CS Energy App</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
