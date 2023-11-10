@@ -12,7 +12,7 @@
                     <string>software-package</string>
                     <key>url</key>
                     <!-- 下载地址为您提供的局域网地址和文件名 -->
-                    <string>https://jjhuang01.github.io/ios-down/__UNI__2000780_1110113752.ipa</string>
+                    <string>https://jjhuang01.github.io/ios-down/ios.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
